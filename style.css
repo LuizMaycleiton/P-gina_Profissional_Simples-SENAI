@@ -1,0 +1,30 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    font-size: 100px;
+    font-weight: 100;
+}
+
+.texto{
+    font-size: 40px;
+    font-weight: 100;
+    font-style: italic;
+    text-align: right;
+}
+
+
